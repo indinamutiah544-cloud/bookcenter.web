@@ -60,7 +60,7 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan *project* ini di komputer l
    
 2. **Clone / Download Repository**
    ```bash
-   git clone https://github.com/indinamutiah544-cloud/book_store_center.git
+   git clone https://github.com/indinamutiah544-cloud/bookcenter.web.git
    ```
    Atau Anda bisa meletakkan *folder* *project* hasil *download* ke dalam direktori `htdocs` (bagi pengguna XAMPP) atau direktori `www` (bagi pengguna Laragon).
    
